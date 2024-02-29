@@ -13,13 +13,14 @@
  * Si el usuario introduce un paso mal se le seguirá preguntando por lo siguientes
  * Cuando se hayan introducido todos los pasos se le mostrarán todos los pasos 
  * indicándosele cuales tiene mal y cuales son los que tendría que haber puesto.
+ * 
  */
 package hacerTortilla;
 import java.util.Scanner;
 public class HacerTortilla {
-	static String[] aleatorizar(String[] pasos) {
+	static void aleatorizar(String[] pasos) {
 		String aleatorio="";
-		return aleatorio;
+	
 	}
 	
 	static void mostrarPasos(String pasos[]) {
