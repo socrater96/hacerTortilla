@@ -17,6 +17,7 @@
  */
 package hacerTortilla;
 import java.util.Scanner;
+
 public class HacerTortilla {
 	static void aleatorizar(String[] pasos) {
 		String aleatorio="";
